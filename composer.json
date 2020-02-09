@@ -1,0 +1,17 @@
+{
+  "name": "endrureza/php-disbursement-api",
+  "description": "This repository is for coding test purpose only",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Endru Reza",
+      "email": "lotusb13@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
